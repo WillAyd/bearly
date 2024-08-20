@@ -1,0 +1,8 @@
+[wrap-file]
+directory = arrow-nanoarrow-793590e45abfefa93f9fd1447b4b5d98266ccfca
+source_url = https://github.com/apache/arrow-nanoarrow/archive/793590e45abfefa93f9fd1447b4b5d98266ccfca.tar.gz
+source_filename = apache-arrow-nanoarrow-793590e45abfefa93f9fd1447b4b5d98266ccfca.tar.gz
+source_hash = fdb238ae7b2ce24d0bbbbf795d0b2babc4c0c0eb0b3ce158c9fe7d109c00e67a
+
+[provide]
+nanoarrow = nanoarrow_dep
